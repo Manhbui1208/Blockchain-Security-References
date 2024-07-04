@@ -6,11 +6,12 @@ I created this repository to list the sources/references related to cyberattacks
 - Solidity security analysis: https://blog.sigmaprime.io/solidity-security.html
 ## Academic Papers 
 #### 1. LLM for Blockchain security
-- Soley: https://arxiv.org/abs/2406.16244
-- BlockGPT: https://arxiv.org/abs/2304.12749
+- Soley (detecting logic vulnerabilities in the smart contract): https://arxiv.org/abs/2406.16244
+- BlockGPT(detecting abnormal transactions): https://arxiv.org/abs/2304.12749
 #### 2. General ML/DL for Blockchain security
 - Feature engineering/XAI: https://ieeexplore.ieee.org/abstract/document/10552782
-
+#### 3. Pure Security solution for Blockchain
+- Detecting cross-chain vulnerabilities in bridge smart contracts: https://arxiv.org/abs/2406.15999
 ## Datasets for Machine Learning application in Blockchain
 - Blockchain Transaction Attack Dataset: https://github.com/DoHaiSon/BTAD
 - Blockchain Network Attack Traffic Dataset: https://avitech-vnu.github.io/BNaT/#/
