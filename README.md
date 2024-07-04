@@ -3,4 +3,5 @@ I created this repository to list the sources/references related to cyberattacks
 ## Analysis from Industries/Scientists
 - Statistical from Slowmist: https://hacked.slowmist.io/ 
 - Attacks experiment from DeFiHackLabs: https://github.com/SunWeb3Sec/DeFiHackLabs
+- Solidity security analysis: https://blog.sigmaprime.io/solidity-security.html
 ## Academic Papers 
