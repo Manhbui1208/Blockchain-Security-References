@@ -5,9 +5,11 @@ I created this repository to list the sources/references related to cyberattacks
 - Attacks experiment from DeFiHackLabs: https://github.com/SunWeb3Sec/DeFiHackLabs
 - Solidity security analysis: https://blog.sigmaprime.io/solidity-security.html
 ## Academic Papers 
-### LLM for Blockchain security
+### Machine Learning for Blockchain Security
+#### LLM for Blockchain security
 - https://arxiv.org/abs/2406.16244
-
+#### Feature Engineering & XAI for Blockchain behaviour analysis
+- https://ieeexplore.ieee.org/abstract/document/10552782
 
 ## Datasets for Machine Learning application in Blockchain
 - Blockchain Transaction Attack Dataset: https://github.com/DoHaiSon/BTAD
