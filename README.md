@@ -4,6 +4,7 @@ I created this repository to list the sources/references related to cyberattacks
 - Statistical from Slowmist: https://hacked.slowmist.io/ 
 - Attacks experiment from DeFiHackLabs: https://github.com/SunWeb3Sec/DeFiHackLabs
 - Solidity security analysis: https://blog.sigmaprime.io/solidity-security.html
+- Updated Crypto Hacks in 2024: https://www.immunebytes.com/blog/list-of-largest-crypto-hacks-in-2024/
 ## Academic Papers 
 #### 1. LLM for Blockchain security
 - Soley (detecting logic vulnerabilities in the smart contract): https://arxiv.org/abs/2406.16244
